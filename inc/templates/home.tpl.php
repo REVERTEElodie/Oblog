@@ -1,4 +1,4 @@
-        <?php foreach ($articlesList as $currentId=>$currentArticle) : ?>
+<?php foreach ($articlesList as $currentId=>$currentArticle) : ?>
         <!-- Je dispose une card: https://getbootstrap.com/docs/4.1/components/card/ -->
         <article class="card">
           <div class="card-body">

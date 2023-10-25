@@ -1,1 +1,1 @@
-<h1>Articles écrits par XXX</h1>
+<h1><?= $authorToDisplay->author ?></h1>
